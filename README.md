@@ -1,3 +1,3 @@
-# Simple twitter "clone"
+# 🐦 Twitter clone
 
-Created in Kenzie Academy to practice class
+Pequeno projeto criado no intensivo da *Kenzie Academy* voltado a **Javascript**.
